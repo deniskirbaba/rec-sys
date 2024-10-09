@@ -1,2 +1,1 @@
-# rec-sys
-Recommender Systems course (fall 2024)
+# Recommender Systems course (fall 2024)
